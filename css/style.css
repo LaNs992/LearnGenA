@@ -429,7 +429,7 @@ margin-right: 195px;
     background-color:#7CFE5B ;
 }
 .cards__back--img{
-    background-image: url(/img/main/cards/unsplash_UZe35tk5UoA.png);
+    background-image: url(/LearnGenA/img/main/cards/unsplash_UZe35tk5UoA.png);
     border-radius:50px;
 }
 .inp__weekly{
@@ -513,3 +513,98 @@ margin-top: 100px;
     outline: none;
     background-color: #3d3d42;
 }
+.footer__maintxt{
+  font-weight: 500;
+  font-size: 90px;
+  line-height: 111.6px;
+  text-align: center;
+   color: #FFFFFF;
+   max-width: 1666px;
+   text-align: center;
+   margin-left: 100px;
+   margin-top: 140px;
+}
+.btn__feedback{
+  margin-left: -1px;
+  max-height: 70px;
+}
+.fotter__list--item{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-right: 47px;
+  font-weight: 1;
+  opacity: 50%;
+  font-family: 'Unbounded';
+}
+.fotter__links--text{
+  color: #FFFFFF;
+}
+.container__footer{
+  margin-bottom: 100px;
+  margin-top: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.fotter__list--icon{
+  display: flex;
+}
+.btn__feedback{
+  max-width: 386px;
+  max-height: 86px;
+  border-width: 2px;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+.container {
+  position: relative;
+  width: auto;
+  height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+
+}
+.image-container {
+  position: absolute;
+  width: 254px;
+  height: 254px;
+  border-width: 0;
+  border-radius:  50px 0px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.bg-green { background-color: #7CFE5B; }
+.bg-purple { background-color: #C35DF5; }
+.bg-white { background-color: white; }
+.instructorF { top: 20%; left: 20%; }
+.instructorT { top: 48%; left: 59%; }
+.instructorFr { top: 10%; right: 20%; }
+.instructorFor { bottom: 10%; left: 27%; }
+.instructorFv { bottom:34%; right: 44%;}
+
+  .instructor__minigrup { top: 9%; left: 38%; }
+
+  .instructor__minipr { bottom: 40%; left: 9%; }
+  .instructor__minigrdw { bottom: 9%; right: 15%; }
+  .mini{
+    width: 136px;
+    height: 136px;
+  }
+  .instr__main--text{
+    margin-top: 300px;
+margin-left: 150px;
+font-weight: 500;
+font-size: 70px;
+line-height: 86.8px;
+color: #FFFFFF;
+  }
